@@ -3,8 +3,8 @@ resource "azurerm_resource_group" "rg-dhondhu" {
   location = "West Europe"
 }
 
-resource "azurerm_resource_group" "rg-jackie" {
-  name     = "rg-jackie"
+resource "azurerm_resource_group" "rg-tommy" {
+  name     = "rg-tommy"
   location = "West Europe"
 }
 
