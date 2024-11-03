@@ -10,5 +10,5 @@ resource "azurerm_resource_group" "rg-jackie" {
 
 resource "azurerm_resource_group" "rg-rahul" {
   name     = "rg-rahul"
-  location = "WestUS"
+  location = "CentralIndia"
 }
