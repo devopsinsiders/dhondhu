@@ -12,3 +12,8 @@ resource "azurerm_resource_group" "rg-rahul" {
   name     = "rg-rahul"
   location = "CentralIndia"
 }
+
+resource "azurerm_resource_group" "rg-234erw" {
+  name     = "rg-sfdgsdfg"
+  location = "CentralIndia"
+}
